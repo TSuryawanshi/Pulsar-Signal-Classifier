@@ -1,4 +1,4 @@
-# Pulsar Signal Classifier
+# Pulsar Class Prediction
 
 ### Project Overview
 Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of great scientific interest as probes of space-time, the interstellar medium, and states of matter.
